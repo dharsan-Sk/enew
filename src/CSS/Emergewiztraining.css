@@ -1,0 +1,25 @@
+.card-text{
+    -webkit-line-clamp: none;
+}
+.cb{
+    color: black;
+}
+
+  .img{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    border: 25px solid;
+    border-radius: 10px;
+    border-color: #d9e3f3 ;
+  }
+ 
+  :hover.custom-table{
+    background-color: #0d6efd !important;
+    color: white;
+  }
+  .border-white{
+    border-color: aliceblue;
+    border: 10px solid;
+  }
+  
